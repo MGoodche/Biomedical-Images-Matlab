@@ -1,4 +1,4 @@
-%% Paso 1: Carga del vídeo y creación del vídeo de salida
+%% Paso 1: Carga del vídeo y creación del vídeo de salida.
 
 % El objetivo de esta fase es cargar en el programa el vídeo a procesar y
 % crear una estructura de vídeo en Matlab para el vídeo de salida
