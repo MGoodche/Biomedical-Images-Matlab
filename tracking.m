@@ -67,7 +67,7 @@ for k = 1:2*floor(fps):numFrames
         hsvImage        = rgb2hsv(currentFrame);
         
         % EXPLICACIÓN:
-        % rgb2hsv convierte una imagen RGB en una imagen HSV
+        % rgb2hsv convierte una imagen RGB en una imagen HSV.
 
         % 2.1.3 De cara a mejorar el proceso de segmentación, vamos a llevar a
         % cabo una ecualización simple del histograma de la imagen. Usa la
