@@ -10,7 +10,7 @@ clear all;
 clear avi;
 close all;
 
-video      = VideoReader('3_prension_Vid1_x264.avi');
+video      = VideoReader('videolamp.avi');
 
 % EXPLICACIÓN:
 % Se crea un nuevo objeto de la clase VideoReader utilizando la ruta del archivo de vídeo.
